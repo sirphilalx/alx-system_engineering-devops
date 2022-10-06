@@ -1,3 +1,2 @@
-#!/bin/bash
-this script shows the directory we are currently working on
+#this script shows the directory we are currently working on
 
