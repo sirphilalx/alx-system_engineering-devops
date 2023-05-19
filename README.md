@@ -1,4 +1,4 @@
-# This repo is entitled alx-system_engineering-devops
+# alx-system_engineering-devops
 
 some of the directories inside it are as follows:
 
