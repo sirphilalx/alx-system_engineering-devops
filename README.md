@@ -1,10 +1,10 @@
-# This repo is entitled alx-system_engineering-devops
+# alx-system_engineering-devops
 
 some of the directories inside it are as follows:
 
 ## 0x00-shell_basics
 
-###Looking Around
+### Looking Around
 
 - What do the commands ls, less, file do
 - How do you use options and arguments with commands
